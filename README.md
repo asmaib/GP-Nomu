@@ -92,13 +92,10 @@ ___________________________________________________________________
 ## 5. AI Models Included (Release-2)
 
 Inside Release-2/Nomu_Models:
-✔ RNN (LSTM) model
-✔ Random Forest model
-✔ Data preprocessing scripts
-✔ Converted .tflite versions
-✔ Prediction notebooks
-✔ Checkpoint versions
-✔ Cleaned datasets
+- RNN (LSTM) model
+- Random Forest model
+- Prediction notebooks
+- Cleaned datasets
 
 ___________________________________________________________________
 
@@ -145,8 +142,3 @@ ___________________________________________________________________
 Supervised by
 - Dr. Qatrunnada Alsmail
 - Dr. Yousra Saud Almathami
-
-📜 License
-
-This project is part of the Graduation Project course at Princess Nourah University.
-Use of this code is restricted to educational and academic purposes.
