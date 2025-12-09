@@ -45,20 +45,22 @@ ___________________________________________________________________
 ## 3. Repository Structure
 GP-Nomu/
 │
-├── Release-1/                  # First full release (application prototype)
+├── Release-1/                      # First full release (application prototype)
 │
-├── Release-2/                  # Final release with ML models
+├── Release-2/                      # Final release with ML models
 │   └── Nomu_Models/
-│       ├── *.ipynb             # Jupyter notebooks (RNN, RF, checkpoints)
-│       ├── *.csv               # Datasets, cleaned market data
-│       ├── *.tflite            # Converted models for mobile use
-│       └── out/                # Generated predictions & files
-│   └── Nomu_Application/       # Final application 
+│       ├── *.ipynb                 # Jupyter notebooks (RNN, RF, checkpoints)
+│       ├── *.csv                   # Datasets, cleaned market data
+│       ├── *.tflite                # Converted models for mobile use
+│       └── out/                    # Generated predictions & files
 │
-├── README.md                    # Project documentation (this file)
-├── AUTHORS.md                   # Contributors
+├── Nomu_Application/               # Final application
+│
+├── README.md                       # Project documentation
+├── AUTHORS.md                      # Contributors
 ├── .gitignore
 └── .gitattributes
+
 
 ___________________________________________________________________
 
