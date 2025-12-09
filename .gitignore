@@ -6,3 +6,4 @@ build/
 .flutter-plugins-dependencies
 google-services.json
 GoogleService-Info.plist
+node_modules/
