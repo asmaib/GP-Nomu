@@ -1,1 +1,8 @@
 Release-2/Nomu_Models/*.json
+build/
+.dart_tool/
+*/flutter/ephemeral/
+.flutter-plugins
+.flutter-plugins-dependencies
+google-services.json
+GoogleService-Info.plist
